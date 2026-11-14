@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="t d">
+<title id="t">DockerScope</title><desc id="d">Animated container stack with scan indicator</desc>
+<rect width="1200" height="220" rx="24" fill="#181825"/>
+<g stroke="#89b4fa" stroke-width="4" fill="#313244"><path d="M75 70l65-27 65 27-65 27z"/><path d="M75 70v70l65 30v-73z"/><path d="M205 70v70l-65 30v-73z"/></g>
+<g stroke="#a6e3a1" stroke-width="4" fill="none"><path d="M100 111l40 18 40-18"/><path d="M140 97v73"/></g>
+<circle cx="140" cy="58" r="7" fill="#a6e3a1"><animate attributeName="r" values="5;11;5" dur="2s" repeatCount="indefinite"/></circle>
+<text x="280" y="101" fill="#cdd6f4" font-family="monospace" font-size="58" font-weight="700">DOCKERSCOPE</text>
+<text x="284" y="145" fill="#a6adc8" font-family="monospace" font-size="20">STATIC DOCKERFILE ANALYSIS</text>
+<g fill="none" stroke="#45475a" stroke-width="6" stroke-linecap="round"><path d="M860 60h245"/><path d="M860 92h205"/><path d="M860 124h225"/><path d="M860 156h165"/></g>
+<path d="M1120 45v120" stroke="#a6e3a1" stroke-width="4" stroke-dasharray="8 9"><animate attributeName="stroke-dashoffset" values="0;34" dur="1.5s" repeatCount="indefinite"/></path>
+<text x="60" y="205" fill="#6c7086" font-family="monospace" font-size="15">NO DOCKER DAEMON / NO IMAGE BUILDS / ZERO DEPENDENCIES</text>
+</svg>
